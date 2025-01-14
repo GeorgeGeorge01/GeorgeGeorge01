@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @GeorgeGeorge01
-- 👀 I’m interested in data science/analytics roles that involve analyzing and interpreting complex datasets to drive business insights and decision-making. My passion lies in leveraging data analytics to solve real-world problems and improve operational efficiencies.
-- 🌱 Recently completed my master's degree in data science & big data analytics.
+- 👀 I’m interested in data science/analytics roles that involve analyzing and interpreting complex datasets to drive business insights and decision-making. 
 - 💞️ I’m looking to collaborate with professionals on projects that combine data science with business strategy, aiming to uncover patterns, trends, and actionable insights that can help organizations achieve their goals.
+- I also love working with different technologies & platforms and my current favorite ones are
+
+❤️ SQL / MySQL
+❤️ Python
+❤️ PowerBI
 - 📫 How to reach me https://www.linkedin.com/feed/
 
 <!---
