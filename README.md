@@ -8,6 +8,7 @@ I also love working with different technologies & platforms and my current favor
 - ❤️ SQL / MySQL
 - ❤️ Python
 - ❤️ PowerBI
+
 📫 How to reach me https://www.linkedin.com/feed/
 
 <!---
