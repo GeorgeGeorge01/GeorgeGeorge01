@@ -9,7 +9,7 @@ I also love working with different technologies & platforms and my current favor
 - ❤️ Python
 - ❤️ PowerBI
 
-📫 How to reach me https://www.linkedin.com/feed/
+📫 How to reach me www.linkedin.com/in/george-george-data01
 
 <!---
 GeorgeGeorge01/GeorgeGeorge01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
